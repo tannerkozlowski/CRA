@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 import { Switch, Route } from 'react-router-dom';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import ScrollToTop from './components/ScrollToTop';
+import Header from 'components/Header';
+import Footer from 'components/Footer';
+import ScrollToTop from 'components/ScrollToTop';
 
 import TemplateContainer from 'containers/TemplateContainer';
-import NotFound from './containers/NotFound';
+import NotFound from 'containers/NotFound';
 
 import './App.scss';
 
