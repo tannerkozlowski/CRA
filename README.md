@@ -2,16 +2,16 @@
 
 ## Features
 
-# ESLint and Prettier
-# SASS(SCSS) Integration
-# Absolute path configuration
-# Added React Router
+### ESLint and Prettier
+### SASS(SCSS) Integration
+### Absolute path configuration
+### Added React Router
 
 ## Script
 
-# Recommend using yarn instead of npm
+### Recommend using yarn instead of npm
 
-# yarn
-# yarn start
-# yarn test
-# yarn build
+### yarn
+### yarn start
+### yarn test
+### yarn build
