@@ -12,7 +12,7 @@ import './App.scss';
 class App extends Component {
   render() {
     return (
-      <div className="appp">
+      <div className="app">
         <Header />
         <Switch>
           <Route exact path="/" component={TemplateContainer} />
